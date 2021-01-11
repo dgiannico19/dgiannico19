@@ -1,6 +1,6 @@
 <body>
 
-<h1 style="color:red">### Hola! Soy Damian! 👋 ###</h1>
+<h1>### Hola! Soy Damian! 👋 ###</h1>
 
 💻 <mark>Programador Front end</mark> 💻
 <p>
@@ -10,7 +10,7 @@
 <kbd>REACT</kbd>
 </p>
 
-<h3>PROYECTOS</h3> 
+<h3  style="color:red">PROYECTOS</h3> 
 
 ⚡DASHBOARD DE NETIFLY: https://app.netlify.com/teams/dgiannico19/overview
 
