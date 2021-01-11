@@ -1,6 +1,6 @@
 <h1>### Hola! Soy Damian! 👋 ###</h1>
 
-💻 Programador Front end 💻
+💻 <mark>Programador Front end</mark> 💻
 <p>
 <kbd>HTML</kbd> 
 <kbd>CSS</kbd> 
