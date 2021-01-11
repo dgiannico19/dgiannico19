@@ -1,8 +1,8 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hola!%20Soy%20Damian!%20👋&fontSize=50" />
-<h1>### Hola! Soy Damian! 👋 ###</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hola!%20Soy%20Damian!%20👋&fontSize=50" />
 
-💻 <mark>Programador Front end</mark> 💻
+
+💻 Programador Front end 💻
 <p>
 <kbd>HTML</kbd> 
 <kbd>CSS</kbd> 
