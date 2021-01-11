@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hola!%20Soy%20Damian!%20👋&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hola!%20Soy%20Damian!%20👋&fontSize=50" />
 
 
 💻 Programador Front end 💻
