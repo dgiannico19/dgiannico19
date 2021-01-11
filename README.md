@@ -1,3 +1,5 @@
+<body>
+
 <h1>### Hola! Soy Damian! 👋 ###</h1>
 
 💻 <mark>Programador Front end</mark> 💻
@@ -27,7 +29,7 @@
   💣 Control de Gastos con Javascript: https://controldegastosjavascript.vercel.app/
 
   💣 Drag and drop con javascript: https://dragdropjavascript.vercel.app/
-
+</body>
 
 
 <h3>Contactame</h3>
