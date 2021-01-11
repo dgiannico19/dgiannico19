@@ -1,4 +1,4 @@
-<body  style="background-color:red">
+<body>
 
 <h1>### Hola! Soy Damian! 👋 ###</h1>
 
@@ -9,7 +9,8 @@
 <kbd>JAVASCRIPT</kbd> 
 <kbd>REACT</kbd>
 </p>
-![body](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
+
 <h3>PROYECTOS</h3> 
 
 ⚡DASHBOARD DE NETIFLY: https://app.netlify.com/teams/dgiannico19/overview
