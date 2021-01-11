@@ -11,7 +11,7 @@
 </p>
 
 
-<h3 &color='red'>-PROYECTOS-</h3> 
+<h3&color='red'>-PROYECTOS-</h3> 
 
 ⚡DASHBOARD DE NETIFLY: https://app.netlify.com/teams/dgiannico19/overview
 
