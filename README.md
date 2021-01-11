@@ -1,4 +1,4 @@
-<body>
+<body  style="background-color:red">
 
 <h1>### Hola! Soy Damian! 👋 ###</h1>
 
@@ -10,7 +10,7 @@
 <kbd>REACT</kbd>
 </p>
 
-<h3  style="color:red">PROYECTOS</h3> 
+<h3>PROYECTOS</h3> 
 
 ⚡DASHBOARD DE NETIFLY: https://app.netlify.com/teams/dgiannico19/overview
 
