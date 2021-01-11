@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&fontAlignY=32&fontAlign=65&rotate=17&text=Hola!%20Soy%20Damian!%20👋&fontSize=40" />
 
 
-💻 Programador Front end 💻
+💻 # Programador Front end 💻
 <p>
 <kbd>HTML</kbd> 
 <kbd>CSS</kbd> 
@@ -11,7 +11,7 @@
 </p>
 
 
-<h3&color='red'>-PROYECTOS-</h3> 
+<h3>-PROYECTOS-</h3> 
 
 ⚡DASHBOARD DE NETIFLY: https://app.netlify.com/teams/dgiannico19/overview
 
