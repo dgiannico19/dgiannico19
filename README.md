@@ -5,7 +5,7 @@
 HTML-
 CSS-
 JAVASCRIPT-
-REACT
+REACT<kbd>REACT</kbd>
 </p>
 
 <h3>PROYECTOS</h3> 
@@ -33,18 +33,3 @@ REACT
 <h3>Contactame</h3>
 Contacto: https://www.linkedin.com/in/giannico-damian/
 
-⚽⚽⚽⚽⚽💣💣💻🖥⌨🖱💽🖲🔌💾💿📀💡💡
-<!--
-**micho19/micho19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
