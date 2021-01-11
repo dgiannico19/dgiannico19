@@ -2,9 +2,9 @@
 
 💻 Programador Front end 💻
 <p>
-<kbd>HTML</kbd>-
-<kbd>CSS</kbd>-
-<kbd>JAVASCRIPT</kbd>-
+<kbd>HTML</kbd> 
+<kbd>CSS</kbd> 
+<kbd>JAVASCRIPT</kbd> 
 <kbd>REACT</kbd>
 </p>
 
