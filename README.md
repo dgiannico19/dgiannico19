@@ -1,8 +1,8 @@
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&fontAlignY=32&fontAlign=65&rotate=17&text=Hola!%20Soy%20Damian!%20👋&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&fontAlignY=32&fontAlign=65&rotate=17&text=Hello!%20I%20am%20Damian!%20👋&fontSize=40" />
 
 
-💻 Programador Front end 💻
+💻 Front end developer 💻
 <p>
 <kbd>HTML</kbd> 
 <kbd>CSS</kbd> 
@@ -11,28 +11,28 @@
 </p>
 
 
-<h3>-PROYECTOS-</h3> 
+<h3>-PROJECTS-</h3> 
 
-⚡DASHBOARD DE NETIFLY: https://app.netlify.com/teams/dgiannico19/overview
+⚡ NETIFLY DASHBOARD: https://app.netlify.com/teams/dgiannico19/overview
 
-  ⚽ Letras de canciones con React: https://buscadorcancionesreact.netlify.app
+  ⚽ Song lyrics with React: https://buscadorcancionesreact.netlify.app
 
-  ⚽ Administrador de citas Veterinarias con React: https://reactcitasveterinarias.netlify.app/
+  ⚽ Veterinary appointment manager with React: https://reactcitasveterinarias.netlify.app/
 
-  ⚽ Control de presupuestos con React: https://reactpresupuesto.netlify.app/
+  ⚽ Budget control with React: https://reactpresupuesto.netlify.app/
 
-⚡DASHBOARD DE VERCEL: https://vercel.com/dgiannico19
+⚡ VERCEL DASHBOARD: https://vercel.com/dgiannico19
 
-  💣 Cuenta regresiva con Javascript: https://cuentaregresivajavascrit.vercel.app/
+  💣 Countdown with Javascript: https://cuentaregresivajavascrit.vercel.app/
 
-  💣 Letras de canciones con Javascript: https://buscadorcancionesjavascript.vercel.app/
+  💣 Song lyrics with Javascript: https://buscadorcancionesjavascript.vercel.app/
 
-  💣 Control de Gastos con Javascript: https://controldegastosjavascript.vercel.app/
+  💣 Expense Control with Javascript: https://controldegastosjavascript.vercel.app/
 
-  💣 Drag and drop con javascript: https://dragdropjavascript.vercel.app/
+  💣 Drag and drop with Javascript: https://dragdropjavascript.vercel.app/
 
 
 
-<h3>Contactame</h3>
-Contacto: https://www.linkedin.com/in/giannico-damian/
+<h3>Contact me</h3>
+Contact: https://www.linkedin.com/in/giannico-damian/
 
