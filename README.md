@@ -17,7 +17,7 @@
 
   ⚽ Letras de canciones con React: https://buscadorcancionesreact.netlify.app
 
-  ⚽ Administrador de citas Veterinarias con React: https://citasveterinariasmichi.netlify.app
+  ⚽ Administrador de citas Veterinarias con React: https://reactcitasveterinarias.netlify.app/
 
   ⚽ Control de presupuestos con React: https://reactpresupuesto.netlify.app/
 
