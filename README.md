@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&fontAlignY=32&fontAlign=65&rotate=17&text=Hello!%20I%20am%20Damian!%20👋&fontSize=40" />
 
 
-💻 Front end developer 💻
+💻 <h3>Front end developer</h3> 💻
 <p>
 <kbd>HTML</kbd> 
 <kbd>CSS</kbd> 
