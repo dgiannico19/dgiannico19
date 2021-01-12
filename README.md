@@ -1,6 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&fontAlignY=32&fontAlign=65&rotate=17&text=Hello!%20I%20am%20Damian!%20👋&fontSize=40" />
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
  <h3>💻 Front end developer 💻</h3> 
 <p>
@@ -13,7 +17,7 @@
 
 <h3>-PROJECTS-</h3> 
 
-⚡ * NETIFLY DASHBOARD:* https://app.netlify.com/teams/dgiannico19/overview
+⚡ NETIFLY DASHBOARD: https://app.netlify.com/teams/dgiannico19/overview
 
   ⚽ Song lyrics with React: https://buscadorcancionesreact.netlify.app
 
