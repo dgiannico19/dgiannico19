@@ -50,6 +50,6 @@
  
 
 
-<h3>Contact me</h3>
+<h3>-CONTACT ME-</h3>
 Contact: https://www.linkedin.com/in/giannico-damian/
 
