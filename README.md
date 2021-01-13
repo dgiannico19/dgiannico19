@@ -55,5 +55,5 @@
 
 
 <h3>-CONTACT ME-</h3>
- * Contact: https://www.linkedin.com/in/giannico-damian/
+ Contact: https://www.linkedin.com/in/giannico-damian/
 
