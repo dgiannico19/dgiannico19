@@ -21,6 +21,8 @@
   *  ⚽ Veterinary appointment manager with React: https://reactcitasveterinarias.netlify.app/
   
   *  ⚽ Budget control with React: https://reactpresupuesto.netlify.app/
+  
+  *  ⚽ Breaking bad phrases with React:https://reactfrasesbreakingbad.netlify.app/
 
 * ⚡ VERCEL DASHBOARD: https://vercel.com/dgiannico19
 
