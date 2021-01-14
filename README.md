@@ -14,7 +14,7 @@
 
 <h3>-PROJECTS-</h3> 
 
-* ⚡ NETIFLY DASHBOARD: https://app.netlify.com/teams/dgiannico19/overview
+* ⚡ NETLIFY DASHBOARD: https://app.netlify.com/teams/dgiannico19/overview
 
     💣 Song lyrics with React: https://buscadorcancionesreact.netlify.app
   
