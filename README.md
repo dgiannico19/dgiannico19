@@ -27,6 +27,9 @@
     💣 Movie finder with React: https://reactbuscadorpeliculas.netlify.app/
     
     💣 Weather finder with React: https://reactbuscadorclima.netlify.app/
+    
+    💣 Cryptocurrency quote with React: https://reactcotizadorcriptomonedas.netlify.app/
+
 
 * ⚡ VERCEL DASHBOARD: https://vercel.com/dgiannico19
 
