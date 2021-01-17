@@ -16,7 +16,8 @@
 
 * ⚡ NETLIFY DASHBOARD: https://app.netlify.com/teams/dgiannico19/overview
 
-    💣 Song lyrics with React: https://buscadorcancionesreact.netlify.app
+    
+    💣 Song lyrics search engine with React: https://reactbuscadorletrasmusicales.netlify.app/
   
     💣 Veterinary appointment manager with React: https://reactcitasveterinarias.netlify.app/
   
@@ -28,7 +29,11 @@
     
     💣 Weather finder with React: https://reactbuscadorclima.netlify.app/
     
+    💣 Song lyrics with React: https://buscadorcancionesreact.netlify.app
+    
     💣 Cryptocurrency quote with React: https://reactcotizadorcriptomonedas.netlify.app/
+    
+    
 
 
 * ⚡ VERCEL DASHBOARD: https://vercel.com/dgiannico19
