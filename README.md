@@ -41,6 +41,8 @@
 * ⚡ VERCEL DASHBOARD: https://vercel.com/dgiannico19
 
     💣 Countdown with Javascript: https://cuentaregresivajavascrit.vercel.app/
+   
+    💣 Shopping cart with local storage and Javascript : https://carritolocalstoragejavascript.vercel.app/
 
     💣 Song lyrics with Javascript: https://buscadorcancionesjavascript.vercel.app/
   
