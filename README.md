@@ -48,6 +48,8 @@
     
     💣 Budget control with Javascript: https://controlpresupuestojavascript.vercel.app/
     
+    💣 Veterinary appointment manager with Javascript: https://citasveterinariasjavascript.vercel.app/
+    
     💣 Personal tweets with Javascript: https://tweetspersonalesjavascript.vercel.app/
 
     💣 Song lyrics with Javascript: https://buscadorcancionesjavascript.vercel.app/
