@@ -15,49 +15,50 @@
 <h3>-PROJECTS-</h3> 
 
  ⚡ NETLIFY DASHBOARD: https://app.netlify.com/teams/dgiannico19/overview
-
+ 
+   💣 Song lyrics search engine with React: https://reactbuscadorletrasmusicales.netlify.app/
     
-    💣 Song lyrics search engine with React: <a href='https://reactbuscadorletrasmusicales.netlify.app/'>https://reactbuscadorletrasmusicales.netlify.app/</a>
+   💣 Song lyrics search engine with React: https://reactbuscadorletrasmusicales.netlify.app/
   
-    💣 Veterinary appointment manager with React: https://reactcitasveterinarias.netlify.app/
+   💣 Veterinary appointment manager with React: https://reactcitasveterinarias.netlify.app/
   
-    💣 Budget control with React: https://reactpresupuesto.netlify.app/
+   💣 Budget control with React: https://reactpresupuesto.netlify.app/
   
-    💣 Breaking bad phrases with React:https://reactfrasesbreakingbad.netlify.app/
+   💣 Breaking bad phrases with React:https://reactfrasesbreakingbad.netlify.app/
   
-    💣 Movie finder with React: https://reactbuscadorpeliculas.netlify.app/
+   💣 Movie finder with React: https://reactbuscadorpeliculas.netlify.app/
     
-    💣 Weather finder with React: https://reactbuscadorclima.netlify.app/
+   💣 Weather finder with React: https://reactbuscadorclima.netlify.app/
     
-    💣 Song lyrics with React: https://buscadorcancionesreact.netlify.app
+   💣 Song lyrics with React: https://buscadorcancionesreact.netlify.app
     
-    💣 Cryptocurrency quote with React: https://reactcotizadorcriptomonedas.netlify.app/
+   💣 Cryptocurrency quote with React: https://reactcotizadorcriptomonedas.netlify.app/
     
-    💣 High quality image search engine with React: https://reactimagenesaltacalidad.netlify.app/
+   💣 High quality image search engine with React: https://reactimagenesaltacalidad.netlify.app/
     
-    💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/    
+   💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/    
     
 
 
  ⚡ VERCEL DASHBOARD: https://vercel.com/dgiannico19
 
-    💣 Countdown with Javascript: https://cuentaregresivajavascrit.vercel.app/
-   
-    💣 Shopping cart with local storage and Javascript : https://carritolocalstoragejavascript.vercel.app/
-    
-    💣 Car search engine with Javascript: https://buscadorautosjavascript.vercel.app/
-    
-    💣 Budget control with Javascript: https://controlpresupuestojavascript.vercel.app/
-    
-    💣 Veterinary appointment manager with Javascript: https://citasveterinariasjavascript.vercel.app/
-    
-    💣 Personal tweets with Javascript: https://tweetspersonalesjavascript.vercel.app/
-
-    💣 Song lyrics with Javascript: https://buscadorcancionesjavascript.vercel.app/
+   💣 Countdown with Javascript: https://cuentaregresivajavascrit.vercel.app/
   
-    💣 Expense Control with Javascript: https://controldegastosjavascript.vercel.app/
+   💣 Shopping cart with local storage and Javascript : https://carritolocalstoragejavascript.vercel.app/
+    
+   💣 Car search engine with Javascript: https://buscadorautosjavascript.vercel.app/
+    
+   💣 Budget control with Javascript: https://controlpresupuestojavascript.vercel.app/
+    
+   💣 Veterinary appointment manager with Javascript: https://citasveterinariasjavascript.vercel.app/
+    
+   💣 Personal tweets with Javascript: https://tweetspersonalesjavascript.vercel.app/
 
-    💣 Drag and drop with Javascript: https://dragdropjavascript.vercel.app/
+   💣 Song lyrics with Javascript: https://buscadorcancionesjavascript.vercel.app/
+  
+   💣 Expense Control with Javascript: https://controldegastosjavascript.vercel.app/
+
+   💣 Drag and drop with Javascript: https://dragdropjavascript.vercel.app/
   
   
 
