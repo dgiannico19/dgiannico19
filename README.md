@@ -14,7 +14,7 @@
 
 <h3>-PROJECTS-</h3> 
 
- ⚡ <h2>NETLIFY DASHBOARD:</h2> https://app.netlify.com/teams/dgiannico19/overview
+  <h4>NETLIFY DASHBOARD:</h4> https://app.netlify.com/teams/dgiannico19/overview
  
    💣 Song lyrics search engine with React: https://reactbuscadorletrasmusicales.netlify.app/
     
@@ -40,7 +40,7 @@
     
 
 
- ⚡ <h2>VERCEL DASHBOARD:</h2> https://vercel.com/dgiannico19
+  <h4>VERCEL DASHBOARD:</h4> https://vercel.com/dgiannico19
 
    💣 Countdown with Javascript: https://cuentaregresivajavascrit.vercel.app/
   
