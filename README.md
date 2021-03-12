@@ -40,6 +40,8 @@
     
    💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/    
     
+    
+    </hr>
 -------------------OOO-------------------
 
   <h4>VERCEL DASHBOARD</h4> 
