@@ -14,6 +14,16 @@
 
 <h3>-PROJECTS-</h3> 
 
+
+
+<h4>RESPONSIVE DESIGN</h4> 
+
+   💣 Ensemble-HR responsive page : https://ensemblehr.netlify.app/
+   
+   💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/   
+   
+   💣 Professional website with Javascript: https://paginaprofesionaljavascript.vercel.app/
+
   <h4>NETLIFY DASHBOARD</h4> 
    
    <h5>URL: https://app.netlify.com/teams/dgiannico19/overview</h5>
@@ -37,8 +47,7 @@
    💣 Cryptocurrency quote with React: https://reactcotizadorcriptomonedas.netlify.app/
     
    💣 High quality image search engine with React: https://reactimagenesaltacalidad.netlify.app/
-    
-   💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/    
+     
     
     
    
@@ -65,7 +74,7 @@
 
    💣 Drag and drop with Javascript: https://dragdropjavascript.vercel.app/
    
-   💣 Professional website with Javascript: https://paginaprofesionaljavascript.vercel.app/
+   
    
    -------------------OOO-------------------
   
