@@ -18,7 +18,6 @@
 
 <h4>RESPONSIVE DESIGN</h4> 
 
-   💣 Ensemble-HR responsive page : https://ensemblehr.netlify.app/
    
    💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/   
    
