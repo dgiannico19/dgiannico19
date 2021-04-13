@@ -16,12 +16,7 @@
 
 
 
-<h4>RESPONSIVE DESIGN</h4> 
 
-   
-   💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/   
-   
-   💣 Professional website with Javascript: https://paginaprofesionaljavascript.vercel.app/
 
   <h4>NETLIFY DASHBOARD</h4> 
    
@@ -73,7 +68,12 @@
 
    💣 Drag and drop with Javascript: https://dragdropjavascript.vercel.app/
    
+   <h4>RESPONSIVE DESIGN</h4> 
+
    
+   💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/   
+   
+   💣 Professional website with Javascript: https://paginaprofesionaljavascript.vercel.app/
    
    -------------------OOO-------------------
   
