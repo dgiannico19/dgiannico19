@@ -30,8 +30,6 @@
    💣 Budget control with React: https://reactpresupuesto.netlify.app/
   
    💣 Breaking bad phrases with React:https://reactfrasesbreakingbad.netlify.app/
-  
-   💣 Movie finder with React: https://reactbuscadorpeliculas.netlify.app/
     
    💣 Weather finder with React: https://reactbuscadorclima.netlify.app/
     
