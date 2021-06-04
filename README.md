@@ -23,6 +23,8 @@
    <h5>URL: https://app.netlify.com/teams/dgiannico19/overview</h5>
  
     
+   💣 Todo Tasks List with Redux: https://todo-redux-dami.netlify.app/
+    
    💣 Song lyrics search engine with React: https://reactbuscadorletrasmusicales.netlify.app/
   
    💣 Veterinary appointment manager with React: https://reactcitasveterinarias.netlify.app/
