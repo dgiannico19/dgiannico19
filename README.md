@@ -5,7 +5,7 @@
 
  <h3>💻 Front end developer 💻</h3> 
 <p>
-<kbd>HTML</kbd> 
+<kbd><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></kbd> 
 <kbd>CSS</kbd> 
 <kbd>JAVASCRIPT</kbd> 
 <kbd>REACT</kbd>
