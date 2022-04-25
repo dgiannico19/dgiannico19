@@ -62,9 +62,7 @@
    
    <h4>RESPONSIVE DESIGN</h4> 
 
-   
-   💣 Responsive folklore group page with React: https://lostabaleros.netlify.app/   
-   
+      
    💣 Professional website with Javascript: https://paginaprofesionaljavascript.vercel.app/
    
    -------------------OOO-------------------
