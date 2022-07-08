@@ -23,16 +23,14 @@
    💣 Song lyrics search engine with React: https://reactbuscadorletrasmusicales.netlify.app/
   
    💣 Veterinary appointment manager with React: https://reactcitasveterinarias.netlify.app/
-  
-   💣 Budget control with React: https://reactpresupuesto.netlify.app/
-    
+      
    💣 Weather finder with React: https://reactbuscadorclima.netlify.app/
     
    💣 Song lyrics with React: https://buscadorcancionesreact.netlify.app
     
    💣 Cryptocurrency quote with React: https://reactcotizadorcriptomonedas.netlify.app/
     
-   💣 High quality image search engine with React: https://reactimagenesaltacalidad.netlify.app/
+
      
     
     
