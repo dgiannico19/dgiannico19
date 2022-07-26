@@ -18,9 +18,7 @@
    <h5>URL: https://app.netlify.com/teams/dgiannico19/overview</h5>
    
    💣 Battleship with Angular: https://btship-angular.netlify.app/   
-  
- -------------------OOO-------------------
-    
+      
    💣 Todo Tasks List with Redux: https://todo-redux-dami.netlify.app/
     
    💣 Song lyrics search engine with React: https://reactbuscadorletrasmusicales.netlify.app/
