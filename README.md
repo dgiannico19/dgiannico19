@@ -12,10 +12,11 @@
 
 
 
-
   <h4>NETLIFY DASHBOARD</h4> 
    
    <h5>URL: https://app.netlify.com/teams/dgiannico19/overview</h5>
+   
+   💣 Home page with React - Styled Components - Typescript - Graphql: https://santex-home-page.netlify.app/   
    
    💣 Battleship with Angular: https://btship-angular.netlify.app/   
       
