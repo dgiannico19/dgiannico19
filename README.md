@@ -85,14 +85,11 @@
  <kbd> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></kbd>
  
  <kbd> <a href="https://graphql.org/" target="_blank"> 
-              alt="angular" width="40" height="40" />
-           </a></kbd>
- 
-  <kbd> 
-    <a href="https://angular.io/" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
-    </a>
+             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
+           </a>
  </kbd>
+ 
+
   
 </p>
   
