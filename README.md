@@ -15,11 +15,6 @@
     </a>
   </kbd>
   <kbd>
-    <a href="https://styled-components.com/" target="_blank">
-      <img src="https://styled-components.com/logo.png" alt="Styled Components" width="80" height="80"/>
-    </a>
-  </kbd>
-  <kbd>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
     </a>
