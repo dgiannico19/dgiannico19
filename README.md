@@ -54,5 +54,8 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
      </a>
    </kbd>  
-</p>  
-<h3>-CONTACT ME: <h4>https://www.linkedin.com/in/giannico-damian/</h4></h3>
+</p>
+<p>
+  <h3>-CONTACT ME:</h3>
+  <h4>https://www.linkedin.com/in/giannico-damian/</h4>
+</p>
