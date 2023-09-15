@@ -4,7 +4,7 @@
 <h3>About Me</h3>
 <p>I am a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
 
-<p>
+<p align="center"> 
   <kbd>
     <a href="https://www.w3.org/html/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
@@ -56,6 +56,6 @@
    </kbd>  
 </p>
 
-<h4 align="center">NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
-<h4 align="center">VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
-<h4 align="center">CONTACT ME - https://www.linkedin.com/in/giannico-damian/</h4>
+<h4>NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
+<h4>VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
+<h4>CONTACT ME - https://www.linkedin.com/in/giannico-damian/</h4>
