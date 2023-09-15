@@ -1,5 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&fontAlignY=32&fontAlign=65&rotate=17&text=Hello!%30I%30am%30Damian!%30👋&fontSize=40" />
 <h3>💻 Front end developer from Buenos Aires, Argentina 🇦🇷 </h3> 
 <h3>-PROJECTS-</h3> 
   <h4>NETLIFY DASHBOARD</h4>  
