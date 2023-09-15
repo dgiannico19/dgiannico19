@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&fontAlignY=32&fontAlign=65&rotate=17&text=Hello!%20I%20am%20Damian!%20👋&fontSize=40" />
+  <h1>¡Hi! I'm Damián 👋</h1>
 </div>
 
 <h2 align="center">💻 Frontend Developer 🇦🇷</h2>
@@ -60,5 +60,5 @@
 </p>
 
 <h4 align="center">NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
-<h4 align="center">VERCEL DASHBOARD - (https://vercel.com/dgiannico19</h4> 
+<h4 align="center">VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
 <h4 align="center">CONTACT ME - https://www.linkedin.com/in/giannico-damian/</h4>
