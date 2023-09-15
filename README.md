@@ -1,6 +1,12 @@
-<h2>💻 Frontend developer 🇦🇷 </h2> 
-<h3>  About me </h3>
-<p> I am a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&fontAlignY=32&fontAlign=65&rotate=17&text=Hello!%20I%20am%20Damian!%20👋&fontSize=40" />
+</div>
+
+<h2 align="center">💻 Frontend Developer 🇦🇷</h2>
+
+<h3 align="center">About Me</h3>
+<p align="center">I am a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
+
 <p>
   <kbd>
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -52,7 +58,7 @@
      </a>
    </kbd>  
 </p>
-<h4>NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
-<h4>VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
-<h4>CONTACT ME: https://www.linkedin.com/in/giannico-damian/</h4>
 
+<h4 align="center">NETLIFY DASHBOARD - [Enlace a Netlify Dashboard](https://app.netlify.com/teams/dgiannico19/overview)</h4>  
+<h4 align="center">VERCEL DASHBOARD - [Enlace a Vercel Dashboard](https://vercel.com/dgiannico19)</h4> 
+<h4 align="center">CONTACT ME: [LinkedIn Profile](https://www.linkedin.com/in/giannico-damian/)</h4>
