@@ -1,6 +1,6 @@
 <h2>💻 Frontend developer 🇦🇷 </h2> 
 <h3>  About me </h3>
-<h4> I am a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</h4>
+<p> I am a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
 <h4>NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
 <h4>VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
 <p>
@@ -13,7 +13,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
     </a>
-  </kbd> 
+  </kbd>
+  <kbd>
+    <a href="https://styled-components.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg" alt="Styled Components" width="30" height="30"/>
+    </a>
+  </kbd>
   <kbd>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
@@ -34,6 +39,11 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
      </a>
    </kbd>
+  <kbd>
+    <a href="https://reactnative.dev/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="30" height="30"/>
+    </a>
+  </kbd>
    <kbd>
      <a href="https://nodejs.org" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
