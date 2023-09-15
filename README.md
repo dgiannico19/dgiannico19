@@ -34,11 +34,7 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
      </a>
    </kbd>
-  <kbd>
-    <a href="https://reactnative.dev/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="30" height="30"/>
-    </a>
-  </kbd>
+  
    <kbd>
     <a href="https://nodejs.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="30" height="30"/>
