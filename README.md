@@ -1,9 +1,6 @@
-<h3>💻 Front end developer from Buenos Aires, Argentina 🇦🇷 </h3> 
-<h3>-PROJECTS-</h3> 
-  <h4>NETLIFY DASHBOARD</h4>  
-   <h5>URL: https://app.netlify.com/teams/dgiannico19/overview</h5>
-  <h4>VERCEL DASHBOARD</h4> 
-  <h5>URL: https://vercel.com/dgiannico19</h5>
+<h2>💻 Front end developer from Buenos Aires, Argentina 🇦🇷 </h2> 
+<h4>NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
+<h4>VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
 <p>
   <kbd>
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -56,5 +53,5 @@
    </kbd>  
 </p>
 <p>
-  <h4>-CONTACT ME: https://www.linkedin.com/in/giannico-damian/</h4>
+  <h4>CONTACT ME: https://www.linkedin.com/in/giannico-damian/</h4>
 </p>
