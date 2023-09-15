@@ -1,8 +1,6 @@
 <h2>💻 Front end developer from Buenos Aires, Argentina 🇦🇷 </h2> 
-<h3>
-  ## About me
-    I am a frontend developer based in Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.
-</h3>
+<h3>  About me </h3>
+<h4> I am a frontend developer based in Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</h4>
 <h4>NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
 <h4>VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
 <p>
