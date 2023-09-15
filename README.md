@@ -16,7 +16,7 @@
   </kbd>
   <kbd>
     <a href="https://styled-components.com/" target="_blank">
-      <img src="https://styled-components.com/logo.png" alt="Styled Components" width="30" height="30"/>
+      <img src="https://styled-components.com/logo.png" alt="Styled Components" width="80" height="80"/>
     </a>
   </kbd>
   <kbd>
