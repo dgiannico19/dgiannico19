@@ -37,7 +37,7 @@
   
    <kbd>
     <a href="https://nodejs.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="React Native" width="30" height="30"/>
     </a>
    </kbd>
    <kbd>
