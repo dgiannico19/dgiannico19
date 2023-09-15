@@ -40,9 +40,9 @@
     </a>
   </kbd>
    <kbd>
-     <a href="https://nodejs.org" target="_blank">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-     </a>
+    <a href="https://nodejs.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="30" height="30"/>
+    </a>
    </kbd>
    <kbd>
      <a href="https://www.mongodb.com/" target="_blank">
