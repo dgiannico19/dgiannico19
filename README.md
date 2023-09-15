@@ -1,8 +1,6 @@
 <h2>💻 Frontend developer 🇦🇷 </h2> 
 <h3>  About me </h3>
 <p> I am a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
-<h4>NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
-<h4>VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
 <p>
   <kbd>
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -34,7 +32,6 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
      </a>
    </kbd>
-  
    <kbd>
     <a href="https://nodejs.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="React Native" width="30" height="30"/>
@@ -55,6 +52,7 @@
      </a>
    </kbd>  
 </p>
-<p>
-  <h4>CONTACT ME: https://www.linkedin.com/in/giannico-damian/</h4>
-</p>
+<h4>NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
+<h4>VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
+<h4>CONTACT ME: https://www.linkedin.com/in/giannico-damian/</h4>
+
