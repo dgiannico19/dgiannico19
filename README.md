@@ -1,8 +1,7 @@
 <div align="center">
   <h1>¡Hi! I'm Damián 👋</h1>
+  <h2 align="center">💻 Frontend Developer 🇦🇷</h2>
 </div>
-
-<h2 align="center">💻 Frontend Developer 🇦🇷</h2>
 
 <h3 align="center">About Me</h3>
 <p align="center">I am a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
