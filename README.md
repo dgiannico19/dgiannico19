@@ -56,6 +56,5 @@
    </kbd>  
 </p>
 <p>
-  <h3>-CONTACT ME:</h3>
-  <h4>https://www.linkedin.com/in/giannico-damian/</h4>
+  <h4>-CONTACT ME: https://www.linkedin.com/in/giannico-damian/</h4>
 </p>
