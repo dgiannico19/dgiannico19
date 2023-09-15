@@ -59,6 +59,6 @@
    </kbd>  
 </p>
 
-<h4 align="center">NETLIFY DASHBOARD - [Enlace a Netlify Dashboard](https://app.netlify.com/teams/dgiannico19/overview)</h4>  
-<h4 align="center">VERCEL DASHBOARD - [Enlace a Vercel Dashboard](https://vercel.com/dgiannico19)</h4> 
-<h4 align="center">CONTACT ME: [LinkedIn Profile](https://www.linkedin.com/in/giannico-damian/)</h4>
+<h4 align="center">NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
+<h4 align="center">VERCEL DASHBOARD - (https://vercel.com/dgiannico19</h4> 
+<h4 align="center">CONTACT ME - https://www.linkedin.com/in/giannico-damian/</h4>
