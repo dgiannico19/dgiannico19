@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 <p>I'm a Frontend Developer based in Temperley, Buenos Aires, Argentina. I specialize in building scalable and impressive web experiences using the latest technologies like React, TypeScript, Node.js</p>
 
----
+<hr style="border: 1px solid #ddd;"/>
 
 <h4>🛠️ Skills</h4>
 <p align="center"> 
@@ -58,13 +58,13 @@
    </kbd>  
 </p>
 
----
+<hr style="border: 1px solid #ddd;"/>
 
 <h4>🚀 Featured Projects</h4>
 <h4>NETLIFY DASHBOARD - <a href="https://app.netlify.com/teams/dgiannico19/overview">https://app.netlify.com/teams/dgiannico19/overview</a></h4>  
 <h4>VERCEL DASHBOARD - <a href="https://vercel.com/dgiannico19">https://vercel.com/dgiannico19</a></h4> 
 
----
+<hr style="border: 1px solid #ddd;"/>
 
 <h4>📫 Let's Connect!</h4>
 <p>
