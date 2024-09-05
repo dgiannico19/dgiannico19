@@ -2,7 +2,7 @@
   
 
 <h3>About Me</h3>
-<p>I am a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I am passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
+<p>I'm a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I'm passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
 
 <p align="center"> 
   <kbd>
