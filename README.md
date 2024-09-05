@@ -57,7 +57,9 @@
      </a>
    </kbd>  
 </p>
+
 ---
+
 <h4>🚀 Featured Projects</h4>
 <h4>NETLIFY DASHBOARD - <a href="https://app.netlify.com/teams/dgiannico19/overview">https://app.netlify.com/teams/dgiannico19/overview</a></h4>  
 <h4>VERCEL DASHBOARD - <a href="https://vercel.com/dgiannico19">https://vercel.com/dgiannico19</a></h4> 
