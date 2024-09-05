@@ -2,8 +2,9 @@
   
 
 <h3>About Me</h3>
-<p>I'm a frontend developer based in Temperley, Buenos Aires, Argentina 🇦🇷. I'm passionate about creating incredible, scalable web experiences using the latest technologies and best development practices.</p>
-
+<p>I'm a Frontend Developer based in Temperley, Buenos Aires, Argentina. I specialize in building scalable and impressive web experiences using the latest technologies like React, TypeScript, Node.js</p>
+---
+<h4>🛠️ Skills</h4>
 <p align="center"> 
   <kbd>
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -55,7 +56,9 @@
      </a>
    </kbd>  
 </p>
-
+---
+<h4>🚀 Featured Projects</h4>
 <h4>NETLIFY DASHBOARD - https://app.netlify.com/teams/dgiannico19/overview</h4>  
 <h4>VERCEL DASHBOARD - https://vercel.com/dgiannico19</h4> 
-<h4>CONTACT ME - https://www.linkedin.com/in/giannico-damian/</h4>
+<h4>📫 Let's Connect!</h4>
+<h5>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giannico-damian/)/</h5>
