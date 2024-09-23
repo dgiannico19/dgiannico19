@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi! I'm Damián 👋</h1>
+<h1 align="center">¡Hi! I'm Damian 👋</h1>
   
 <h3>About Me</h3>
 <p>I'm a Frontend Developer based in Temperley, Buenos Aires, Argentina. I specialize in building scalable and impressive web experiences using the latest technologies like React, TypeScript, Node.js</p>
